@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b665ac8f837af5b34609080b4cbdb419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.airbnb.android:lottie:2.6.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\lottie-2.6.1.aar\294df531da2aceb9aacde963c27daf14\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f1cf56e0512ad6bbfa032373d236fdfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\97de40529ee7ac284ef52e47303cbb0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ed48f9df23a0f7ff2015d8cd69b45ecd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4fb44cc9c71c2997b7082125e382e0f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c9415d0b771fad008cd23735ed8a97bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\186957b5870abc14f199d7159b5e05d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7440b261ae05818675c712fc0ca784ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5236047742c84b6548c284bc757c5c28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a9803128d70c2477be058f16c1702df7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7938b8d49b0d8c5f87e8b57f3ecc91dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f5957d0fbe8f44788256fa860c266a12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a71e26daf9ee92cc0dbf1807e70978b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65fa8a28f433c4d162482c4ac00207fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\18b00751a027cb3131f96579a6bd889b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\79f30e2929c755de336ec27577251266\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3dce520be850dd034d76ff6bd21a6fff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2a75e99e5857349c181f8ab9162cc74d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:10:5-87:19
+MERGED from [com.airbnb.android:lottie:2.6.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\lottie-2.6.1.aar\294df531da2aceb9aacde963c27daf14\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.6.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\lottie-2.6.1.aar\294df531da2aceb9aacde963c27daf14\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4fb44cc9c71c2997b7082125e382e0f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4fb44cc9c71c2997b7082125e382e0f\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.tinh.dev.myapplication.MainActivity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:17:9-50
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:17:19-47
+activity#com.tinh.dev.myapplication.SplashScreenActivity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:18:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:19:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.tinh.dev.myapplication.LoginActivity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:32:9-36:53
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:34:13-57
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:36:13-50
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:33:13-42
+activity#com.tinh.dev.myapplication.HomeActivity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:38:9-42:53
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:40:13-33
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:42:13-50
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:39:13-41
+activity#com.tinh.dev.myapplication.ChangePasswordActivity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:44:9-47:50
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:46:13-49
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:47:13-47
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:45:13-51
+activity#com.tinh.dev.myapplication.ListUserActivity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:48:9-56:20
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:50:13-39
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:49:13-45
+activity#com.tinh.dev.myapplication.QLLS_Activity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:58:9-62:57
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:60:13-46
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:62:13-54
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:59:13-42
+activity#com.tinh.dev.myapplication.QLS_Activity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:64:9-68:57
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:67:13-49
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:66:13-41
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:68:13-54
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:65:13-41
+activity#com.tinh.dev.myapplication.SBC_Activity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:70:9-74:57
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:72:13-49
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:74:13-54
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:71:13-41
+activity#com.tinh.dev.myapplication.ThongKe_Activity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:76:9-80:57
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:78:13-37
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:80:13-54
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:77:13-45
+activity#com.tinh.dev.myapplication.HoaDon_Activity
+ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:82:9-86:57
+	android:screenOrientation
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:84:13-36
+	android:theme
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:86:13-54
+	android:name
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml:83:13-44
+uses-sdk
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b665ac8f837af5b34609080b4cbdb419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b665ac8f837af5b34609080b4cbdb419\AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:2.6.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\lottie-2.6.1.aar\294df531da2aceb9aacde963c27daf14\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.6.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\lottie-2.6.1.aar\294df531da2aceb9aacde963c27daf14\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f1cf56e0512ad6bbfa032373d236fdfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f1cf56e0512ad6bbfa032373d236fdfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\97de40529ee7ac284ef52e47303cbb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\97de40529ee7ac284ef52e47303cbb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ed48f9df23a0f7ff2015d8cd69b45ecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ed48f9df23a0f7ff2015d8cd69b45ecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4fb44cc9c71c2997b7082125e382e0f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d4fb44cc9c71c2997b7082125e382e0f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c9415d0b771fad008cd23735ed8a97bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c9415d0b771fad008cd23735ed8a97bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\186957b5870abc14f199d7159b5e05d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\186957b5870abc14f199d7159b5e05d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7440b261ae05818675c712fc0ca784ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7440b261ae05818675c712fc0ca784ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5236047742c84b6548c284bc757c5c28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5236047742c84b6548c284bc757c5c28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a9803128d70c2477be058f16c1702df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a9803128d70c2477be058f16c1702df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7938b8d49b0d8c5f87e8b57f3ecc91dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7938b8d49b0d8c5f87e8b57f3ecc91dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f5957d0fbe8f44788256fa860c266a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\f5957d0fbe8f44788256fa860c266a12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a71e26daf9ee92cc0dbf1807e70978b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\a71e26daf9ee92cc0dbf1807e70978b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65fa8a28f433c4d162482c4ac00207fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65fa8a28f433c4d162482c4ac00207fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\18b00751a027cb3131f96579a6bd889b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\18b00751a027cb3131f96579a6bd889b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\79f30e2929c755de336ec27577251266\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\79f30e2929c755de336ec27577251266\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3dce520be850dd034d76ff6bd21a6fff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3dce520be850dd034d76ff6bd21a6fff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2a75e99e5857349c181f8ab9162cc74d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Le An\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2a75e99e5857349c181f8ab9162cc74d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Le An\Documents\DuAnMau_Android\BookManagerTinh-master3\BookManagerTinh-master\app\src\main\AndroidManifest.xml

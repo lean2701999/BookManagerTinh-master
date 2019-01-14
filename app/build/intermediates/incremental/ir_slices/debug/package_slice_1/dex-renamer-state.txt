@@ -1,0 +1,4 @@
+#Mon Jan 14 19:54:38 ICT 2019
+base.0=C\:\\Users\\Le An\\Documents\\DuAnMau_Android\\BookManagerTinh-master3\\BookManagerTinh-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
